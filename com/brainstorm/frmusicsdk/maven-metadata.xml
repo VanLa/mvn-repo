@@ -3,8 +3,8 @@
   <groupId>com.brainstorm</groupId>
   <artifactId>frmusicsdk</artifactId>
   <versioning>
-    <latest>1.2.6</latest>
-    <release>1.2.6</release>
+    <latest>1.2.8</latest>
+    <release>1.2.8</release>
     <versions>
       <version>2.0.0</version>
       <version>1.0.0</version>
@@ -33,7 +33,8 @@
       <version>1.2.4</version>
       <version>1.2.5</version>
       <version>1.2.6</version>
+      <version>1.2.8</version>
     </versions>
-    <lastUpdated>20230404131046</lastUpdated>
+    <lastUpdated>20230419041010</lastUpdated>
   </versioning>
 </metadata>
